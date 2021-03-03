@@ -1,0 +1,54 @@
+.content-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 40px;
+    min-height: 100vh;
+}
+.Card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.Card_When_User_Creates_Memory{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    opacity: 10%;
+}
+.header-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-button{
+    max-height: 40px;
+}
+.header-searchbar{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+@media (max-width:670px){
+    .header-container{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    .header-searchbar{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 7px;
+    }
+    .header-button{
+        width: 200px;  
+    }
+    .header-text-field{
+        margin-bottom: 30px;
+    }
+}       
