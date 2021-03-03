@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/memory-app/static/css/main.bc74a32e.chunk.css",
+    "main.js": "/memory-app/static/js/main.432e341f.chunk.js",
+    "main.js.map": "/memory-app/static/js/main.432e341f.chunk.js.map",
+    "runtime-main.js": "/memory-app/static/js/runtime-main.575ae784.js",
+    "runtime-main.js.map": "/memory-app/static/js/runtime-main.575ae784.js.map",
+    "static/js/2.011e51cc.chunk.js": "/memory-app/static/js/2.011e51cc.chunk.js",
+    "static/js/2.011e51cc.chunk.js.map": "/memory-app/static/js/2.011e51cc.chunk.js.map",
+    "index.html": "/memory-app/index.html",
+    "static/css/main.bc74a32e.chunk.css.map": "/memory-app/static/css/main.bc74a32e.chunk.css.map",
+    "static/js/2.011e51cc.chunk.js.LICENSE.txt": "/memory-app/static/js/2.011e51cc.chunk.js.LICENSE.txt",
+    "static/media/memories.45a5278e.png": "/memory-app/static/media/memories.45a5278e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.575ae784.js",
+    "static/js/2.011e51cc.chunk.js",
+    "static/css/main.bc74a32e.chunk.css",
+    "static/js/main.432e341f.chunk.js"
+  ]
+}
